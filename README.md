@@ -9,6 +9,7 @@ A lightweight Python library for common text-processing operations.
 - `character_count(text)`: count characters
 - `reverse(text)`: reverse a text
 - `capitalize_words(text)`: capitalize each word
+- `word_frequency(text, top_n=None, min_length=1)`: count word occurrences
 
 ## Installation
 
