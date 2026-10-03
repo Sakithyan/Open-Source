@@ -1,6 +1,3 @@
-"""Text casing utilities."""
-
-
 def capitalize_words(text: str) -> str:
     """Capitalize the first letter of every word in a text.
 
