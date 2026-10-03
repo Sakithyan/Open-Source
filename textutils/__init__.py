@@ -1,6 +1,10 @@
-"""textutils: a lightweight text-processing library."""
+from .counting import word_count, character_count
+from .transform import reverse, capitalize_words, snake_case
 
-from .casing import capitalize_words
-from .transform import character_count, reverse, word_count
-
-__all__ = ["word_count", "character_count", "reverse", "capitalize_words"]
+__all__ = [
+    "word_count",
+    "character_count",
+    "reverse",
+    "capitalize_words",
+    "snake_case",
+]
