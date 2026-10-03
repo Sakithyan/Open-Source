@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+tests/test_casing.py
+tests/test_snake_case.py
+tests/test_transform.py
+textutils/__init__.py
+textutils.egg-info/PKG-INFO
+textutils.egg-info/SOURCES.txt
+textutils.egg-info/dependency_links.txt
+textutils.egg-info/top_level.txt
+textutils/counting/character_count.py
+textutils/counting/word_count.py
+textutils/transform/__init__.py
+textutils/transform/capitalize_words.py
+textutils/transform/reverse.py
+textutils/transform/snake_case.py
